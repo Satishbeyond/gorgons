@@ -464,7 +464,7 @@
                   <form:button name="submit" value="submit" class="btn btn-primary">Register Now</form:button>  
                   </form:form>
                   <!--Register Now Form Ends-->
-                  <p><a href="login">Already have an account?</a></p>
+                  <p><a href="/">Already have an account?</a></p>
                   
                 </div><!--Registration Form Contents Ends-->
                 
