@@ -59,7 +59,7 @@
                   <li><a href="newsfeed-friends">My friends</a></li>
                   <li><a href="newsfeed-messages">Chatroom</a></li>
                   <li><a href="newsfeed-images">Images</a></li>
-                  <li><a href="newsfeed-videos">Videos</a></li>
+                  <li><a href="newsfeed-videos">Videoss</a></li>
                 </ul>
               </li>
               <li class="dropdown">
